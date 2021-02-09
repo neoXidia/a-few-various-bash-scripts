@@ -22,5 +22,5 @@
 - @2021, in February.
 
 ## More infos...
-- You can, easily, launch and test, this program while install Node.JS in your system.
+- Maybe that, you will must to use, Unix compatiblities commands, to run this programs (check this, like 'chmod' command)...
 
