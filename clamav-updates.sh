@@ -26,4 +26,3 @@ sleep 2
 read -p "Press any key to exit (...)"
 
 exit
-
